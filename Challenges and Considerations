@@ -1,0 +1,8 @@
+Celo’s governance system is not without challenges:Complexity: The multi-phase process and varying vote thresholds (e.g., 60% for unfreezing rewards, 90% for changing deposit requirements) can be daunting for new participants.
+
+Accessibility: Voting requires locked CELO and technical knowledge, though tools like Celo Mondo and celovote.com aim to simplify participation.
+
+Centralization Risk: The Approver role, currently controlled by the Celo Foundation, introduces a degree of centralization, though plans for DAO-based decentralization are in progress.
+
+Security: Proposals modifying smart contracts undergo rigorous audits to prevent bugs that could compromise user funds or require a hard fork.
+
