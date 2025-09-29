@@ -1,0 +1,2 @@
+If a proposal passes the Referendum phase, it enters the Execution phase, where any community member can trigger the execution of the proposal’s transactions via the Governance smart contract. If no one executes the proposal within three days, it is automatically rejected. This phase ensures that approved changes are promptly implemented.
+
