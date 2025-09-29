@@ -1,0 +1,4 @@
+Celo’s governance model is built around a formal on-chain mechanism that allows stakeholders to propose, discuss, and vote on changes to the protocol. These changes can include upgrading smart contracts, adding new stablecoins (like cUSD), modifying reserve target asset allocations, or allocating funds from the Celo Community Fund. The governance process is managed through the Celo Governance smart contract, which serves as the "owner" of other governable smart contracts within the network, including itself. This self-governing structure ensures that all modifications to the protocol are transparent and community-driven.
+
+The governance system is designed to balance decentralization with efficiency, using a stakeholder proposal process that involves CELO token holders, validators, and other community members. By requiring active participation and consensus, Celo ensures that changes align with the community’s vision of creating an inclusive financial ecosystem.
+
