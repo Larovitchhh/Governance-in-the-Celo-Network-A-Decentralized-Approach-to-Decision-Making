@@ -1,0 +1,4 @@
+Anyone with at least 10,000 CELO tokens can submit a governance proposal by sending a transaction to the Governance smart contract, accompanied by a deposit (currently 10,000 CELO, refundable if the proposal reaches the Approval stage). The proposal includes a list of transactions to be executed and a description URL, typically linking to a Celo Governance Proposal (CGP) document in the celo-org/celo-proposals GitHub repository.
+
+During this phase, proposals enter a queue where community members can upvote them using their locked CELO tokens. Upvoting signals community interest and prioritizes proposals, with the top three proposals (based on locked CELO weight) automatically moving to the Approval stage each day. Proposals that remain in the queue for four weeks without sufficient upvotes expire, and the deposit is forfeited.
+
