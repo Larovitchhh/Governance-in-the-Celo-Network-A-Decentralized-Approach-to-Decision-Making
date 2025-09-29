@@ -1,0 +1,3 @@
+In the Referendum phase, CELO holders with locked tokens vote YES or NO on the proposal. For a proposal to pass, it must meet two criteria:Participation: A minimum portion of locked CELO must vote to ensure sufficient community engagement. This threshold is calculated as a governable portion of an exponential moving average of past proposal participation.
+Agreement: The proposal must achieve a predefined percentage of YES votes, which varies depending on the proposal’s scope. For example, changing the maximum number of validator nodes requires over 70% YES votes, while modifying the minimum deposit may require up to 90%.
+
